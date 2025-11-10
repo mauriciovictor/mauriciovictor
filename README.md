@@ -4,7 +4,7 @@
 
 **Desenvolvedor Full‑Stack** • PHP (Laravel) • JavaScript (Vue.js) • Sistemas Web
 
-[Visite meu portfólio](https://mauriciovictor.netlify.app/) • https://mauriciovictor.netlify.app/
+[Visite meu portfólio](https://mauriciovictor.github.io/portfolio) • https://mauriciovictor.github.io/portfolio
 
 <p style="text-align:center">
   <a href="mailto:mauriciovictor17@gmail.com" aria-label="E-mail">
@@ -31,7 +31,7 @@ Principais atuações:
 - Integração com serviços externos e APIs;
 - Melhoria contínua de performance e segurança.
 
-> Visite meu portfólio para ver projetos completos e estudos de caso: https://mauriciovictor.netlify.app/
+> Visite meu portfólio para ver projetos completos e estudos de caso: https://mauriciovictor.github.io/portfolio
 
 
 ## Competências Técnicas
@@ -64,14 +64,14 @@ Principais atuações:
 
 ## Projetos em Destaque
 
-- Portfólio (site pessoal) — Apresenta projetos, descrição técnica e contato: https://mauriciovictor.netlify.app/
+- Portfólio (site pessoal) — Apresenta projetos, descrição técnica e contato: https://mauriciovictor.github.io/portfolio
 - Repositórios selecionados no meu GitHub — navegue pelos projetos e exemplos de código: https://github.com/mauriciovictor
 
 
 ## Contato
 
 - E-mail: mauriciovictor17@gmail.com
-- Portfolio: https://mauriciovictor.netlify.app/
+- Portfolio: https://mauriciovictor.github.io/portfolio
 - LinkedIn: https://www.linkedin.com/in/mauricio-v-ferreira-/
 
 
